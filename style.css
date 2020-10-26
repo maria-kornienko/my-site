@@ -1,0 +1,72 @@
+/* CSS */
+
+body {
+    font-family: Roboto, sans-serif;
+    background: #EEEFF1;
+}
+
+header {
+
+
+    box-sizing: border-box;
+    height: 68px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+header a {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+    letter-spacing: 0.1em;
+    color: #34547A;
+}
+
+main img {
+    width: 360px;
+    padding-bottom: 32px;
+    justify-content: start;
+}
+
+footer {
+    height: 120px;
+    background: #404243;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 23px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #C5C5C5;
+}
+
+main {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 5%;
+    flex-wrap: wrap;
+}
+
+main p {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 26px;
+    color: #727272;
+}
+
+h1 {
+    text-align: left;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 40px;
+    line-height: 47px;
+    color: #000000;
+}
